@@ -133,7 +133,7 @@ Hi! I'm **Jhon Amaya**, a Systems Engineering student passionate about technolog
 <a href="https://github.com/Amaya2912">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="www.linkedin.com/in/jhonamaya2912">
+<a href="https://www.linkedin.com/in/jhonamaya2912/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:jhamaya2904@gmail.com">
