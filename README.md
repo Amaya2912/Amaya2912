@@ -100,9 +100,6 @@ Hi! I'm **Jhon Amaya**, a Systems Engineering student passionate about technolog
 
 </div>
 
-
-> 💡 Replace the repository names above with your actual projects. Choose the ones that best demonstrate your frontend, backend and database skills.
-
 ---
 
 ## 📊 GitHub Analytics
