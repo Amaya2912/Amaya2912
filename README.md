@@ -15,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=Amaya2912&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-7C3AED?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/GPA-4.43%2F5.0-16A34A?style=for-the-badge" alt="GPA"/>
 
 </div>
 
@@ -91,7 +90,7 @@ Hi! I'm **Jhon Amaya**, a Systems Engineering student passionate about technolog
 <div align="center">
 
 <a href="https://github.com/Amaya2912">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amaya2912&repo=TU_REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Featured project 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amaya2912&repo=https://github.com/JustBeingLuis/CoworkingHub&theme=tokyonight&hide_border=true" alt="Featured project 1"/>
 </a>
 
 <a href="https://github.com/Amaya2912">
