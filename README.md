@@ -87,17 +87,19 @@ Hi! I'm **Jhon Amaya**, a Systems Engineering student passionate about technolog
 
 ## 🚀 Featured Projects
 
+
 <div align="center">
 
-<a href="https://github.com/Amaya2912">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amaya2912&repo=https://github.com/JustBeingLuis/CoworkingHub&theme=tokyonight&hide_border=true" alt="Featured project 1"/>
+<a href="https://github.com/JustBeingLuis/CoworkingHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustBeingLuis&repo=CoworkingHub&theme=tokyonight&hide_border=true" alt="CoworkingHub"/>
 </a>
 
-<a href="https://github.com/Amaya2912">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amaya2912&repo=TU_REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Featured project 2"/>
+<a href="https://github.com/Daniel-Prada27/Centauri-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Prada27&repo=Centauri-backend&theme=tokyonight&hide_border=true" alt="Centauri Backend"/>
 </a>
 
 </div>
+
 
 > 💡 Replace the repository names above with your actual projects. Choose the ones that best demonstrate your frontend, backend and database skills.
 
