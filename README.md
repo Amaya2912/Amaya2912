@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/Amaya2912">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Amaya2912&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-7C3AED?style=for-the-badge" alt="Focus"/>
 <img src="https://img.shields.io/badge/GPA-4.43%2F5.0-16A34A?style=for-the-badge" alt="GPA"/>
