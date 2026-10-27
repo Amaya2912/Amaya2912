@@ -104,17 +104,22 @@ Hi! I'm **Jhon Amaya**, a Systems Engineering student passionate about technolog
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaya2912&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<!-- GitHub Stats -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amaya2912&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaya2912&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<!-- Top Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaya2912&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Amaya2912&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<!-- GitHub Streak -->
+<img width="90%" src="https://streak-stats.demolab.com/?user=Amaya2912&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
